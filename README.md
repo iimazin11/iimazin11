@@ -9,4 +9,4 @@ let languages = ['Arabic','English'];
 let skils = ['Javascript','Ejs','next.js','react']
 let discord = 'mz_n';
 ```
-[[Discord Account](https://discord.com/users/618078478755037185)]
+### [Discord Account](https://discord.com/users/618078478755037185)
