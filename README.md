@@ -18,8 +18,6 @@ let discord = 'mz_n';
     <img alt="html" src="https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white"/>
     &emsp;
     <img alt="css" src="https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white"/>
-    &emsp;
-    <img alt="ruby" src="https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=white"/>
     </p>
 
 <hr>
