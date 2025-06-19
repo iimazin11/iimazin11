@@ -24,7 +24,7 @@ let discord = 'mz_n';
   ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   
-    </div>
+ 
 
 <hr>
 <h5>My databases i know</h5> 
