@@ -10,15 +10,13 @@ let skils = ['Javascript','Ejs', 'Typescript', 'RUST', 'next.js','react']
 let discord = 'mz_n';
 ```
 <h5>My Skills</h5>
-<p align="left">
-    <img alt="JS" src="https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white"/>
-    &emsp;
-    <img alt="ts" src="https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white"/>
-    &emsp;
-    <img alt="html" src="https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white"/>
-    &emsp;
-    <img alt="css" src="https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white"/>
-    </p>
+<div align="left">
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+    </div>
 
 <hr>
 <h5>My databases i know</h5> 
