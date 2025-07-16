@@ -6,7 +6,7 @@ let name = 'Mazin';
 let age = 17;
 let country = 'Egypt';
 let languages = ['Arabic','English'];
-let skils = ['Javascript','Ejs', 'Typescript', 'RUST', 'next.js','react']
+let skils = ['Javascript','Ejs', 'Typescript', 'next.js','react']
 let discord = 'mz_n';
 ```
 <h5>My Skills</h5>
