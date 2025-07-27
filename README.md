@@ -80,6 +80,7 @@
 - 🧑‍💻 Discord: `mz_n`
 - 🆔 Discord ID: `618078478755037185`
 - 🐙 GitHub: [@iimazin11](https://github.com/iimazin11)
+- <img src="https://komarev.com/ghpvc/?username=devM7MD&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 ---
 
