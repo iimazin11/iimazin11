@@ -1,43 +1,87 @@
-# Welcoem to my GitHub
-**Simple account :)**
-## About Me
-```js
-let name = 'Mazin';
-let age = 17;
-let country = 'Egypt';
-let languages = ['Arabic','English'];
-let skils = ['Javascript','Ejs', 'Typescript', 'next.js','react']
-let discord = 'mz_n';
-```
-<h5>My Skills</h5>
-<div align="left">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  
- 
+<h1 align="center">Hey 👋, I'm Mazen Mahmoud</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 Tech Explorer | 🌍 Open Source Contributor</h3>
 
-<hr>
-<h5>My databases i know</h5> 
-  <p align="left">
-    <img alt="mongoDB" src ="https://img.shields.io/badge/Mongodb-07AC4F?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    &emsp;
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00618B?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </p>
-<hr>
-  <h5> Tools:</h5>
-    <p align="left">
-      <img alt="visual" src="https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
-    <img alt="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white"/>
-    </p>
-        <h5> My Discord to Contact :</h5>
-<a href="https://discord.com/users/618078478755037185"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff"/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=JavaScript+%E2%9D%A4;React%2FNext+Enthusiast;Python+%2B+Django+Lover;Building+cool+stuff+with+Electron;MongoDB+%7C+MySQL+%7C+REST+APIs;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### 🧪 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn)
+![Bun](https://img.shields.io/badge/-Bun-000?style=flat&logo=bun)
+![TS-Node](https://img.shields.io/badge/-TS--Node-3178C6?style=flat&logo=typescript)
+![PIP](https://img.shields.io/badge/-PIP-3776AB?style=flat&logo=pypi)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iimazin11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimazin11&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iimazin11&theme=discord&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iimazin11&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iimazin11/iimazin11/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+> لتشغيل ثعبان النشاط (snake)، لازم تفعّل GitHub Actions على الريبو باسمك بالضبط `iimazin11`، ولو محتاج أجهزلك ملفات الـ workflow قولي 💬
+
+---
+
+## 🤝 Let's Connect
+
+- 🧑‍💻 Discord: `mz_n`
+- 🆔 Discord ID: `618078478755037185`
+- 🐙 GitHub: [@iimazin11](https://github.com/iimazin11)
+
+---
+
+> “Keep pushing code, one line at a time.” 🚀
+
