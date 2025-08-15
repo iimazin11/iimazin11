@@ -78,9 +78,7 @@
 
 ## 🤝 Let's Connect
 
-- 🧑‍💻 Discord: `mz_n`
-- 🆔 Discord ID: `618078478755037185`
-- 🐙 GitHub: [@iimazin11](https://github.com/iimazin11)
+![Discord](https://discord.c99.nl/widget/theme-1/618078478755037185.png)
 - <img src="https://komarev.com/ghpvc/?username=iimazin11&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 ---
