@@ -78,7 +78,7 @@
 
 ## 🤝 Let's Connect
 
-![Discord](https://discord.c99.nl/widget/theme-1/618078478755037185.png)
+![Discord](https://discord.c99.nl/widget/theme-2/618078478755037185.png)
 - <img src="https://komarev.com/ghpvc/?username=iimazin11&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 ---
