@@ -16,7 +16,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🧪 Backend
