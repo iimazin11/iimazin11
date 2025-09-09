@@ -79,6 +79,7 @@
 ## 🤝 Let's Connect
 
 ![Discord](https://discord.c99.nl/widget/theme-2/618078478755037185.png)
+-
 [![Discord Presence](https://lanyard.cnrad.dev/api/618078478755037185?showDisplayName=true)](https://discord.com/users/618078478755037185)
 - <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=iimazin11" />
 
