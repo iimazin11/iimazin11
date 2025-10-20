@@ -23,7 +23,7 @@
 
 ### ⚡ **Backend Power**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,django,electron,nestjs&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,django,electron,nestjs,go&theme=dark" alt="Backend Skills" />
 </p>
 
 ### 🛠️ **Developer Tools**
