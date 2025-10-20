@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-maz1ndev.vercel.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maz1ndev.vercel.app/)
 
 **💻 Full Stack Developer** • **🧠 Tech Explorer** • **🌍 Open Source Contributor**
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl2NjJwNnhpb2xqNTVmcmVzY25jbjdpcTRlNzhvM3JuOGcwMXY2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=JavaScript+%E2%9D%A4%EF%B8%8F+Developer;React%2FNext.js+Enthusiast;Python+%2B+Django+Lover;Building+Desktop+Apps+with+Electron;REST+APIs+%26+Database+Expert;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing Animation" />
 
 </div>
