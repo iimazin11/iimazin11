@@ -42,7 +42,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iimazin11&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iimazin11&theme=github_dark" />
 
 ---
 
