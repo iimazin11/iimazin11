@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-maz1ndev.vercel.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maz1ndev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mazinx.codixverse.xyz-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mazinx.codixverse.xyz/)
 
 **💻 Full Stack Developer** • **🧠 Tech Explorer** • **🌍 Open Source Contributor**
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl2NjJwNnhpb2xqNTVmcmVzY25jbjdpcTRlNzhvM3JuOGcwMXY2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" />
@@ -93,11 +93,11 @@ const mazen = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/618078478755037185)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maz1ndev.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/276452420719083521)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mazinx.codixverse.xyz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iimazin11)
 
-<img src="https://discord.c99.nl/widget/theme-4/618078478755037185.png" alt="Discord Status"/>
+<img src="https://discord.c99.nl/widget/theme-4/276452420719083521.png" alt="Discord Status"/>
 
 </div>
 
