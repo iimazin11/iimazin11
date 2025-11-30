@@ -1,4 +1,4 @@
-https://guns.lol/.eg For all social
+https://guns.lol/n.. For all social
 
      \    /\
       )  ( ')
