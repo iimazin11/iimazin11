@@ -1,4 +1,4 @@
-( https://guns.lol/n../ ) For all social
+( https://haunt.gg/rd ) For all social
 
      \    /\
       )  ( ')
