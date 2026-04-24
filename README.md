@@ -1,3 +1,7 @@
+##
+<p align="center"> <img src="https://count.getloli.com/@iimazin11?name=iimazin11&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="iimazin11" /> </p>
+
+
 ( https://haunt.gg/rd ) For all social
 ```
      \    /\
