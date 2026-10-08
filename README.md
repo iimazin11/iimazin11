@@ -8,10 +8,12 @@
   <i>Full-stack developer · Backend lover · Building things with Kotlin, TypeScript & Go</i>
 </p>
 
-<table>
+---
+
+<table width="100%">
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="https://github.com/iimazin11/iimazin11/blob/main/pngwing.com.png?raw=true" width="300" alt="anime character" />
+      <img src="https://github.com/iimazin11/iimazin11/blob/main/pngwing.com.png?raw=true" width="100%" alt="anime character" />
     </td>
     <td width="60%" valign="top">
       <h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/Default/3D/technologist_3d_default.png" width="36" align="absmiddle" alt="" /> About Me</h2>
@@ -22,13 +24,13 @@
         <li><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" width="22" align="absmiddle" alt="" /> Anime & gaming enjoyer (Genshin Impact / Zenless Zone Zero)</li>
       </ul>
       <hr />
-      <img width="420" src="https://skillicons.dev/icons?i=kotlin,ts,js,go,react,nextjs,express,nestjs,electron,redis" alt="Languages and frameworks" />
+      <img width="75%" src="https://skillicons.dev/icons?i=kotlin,ts,js,go,react,nextjs,express,nestjs,electron,redis&perline=5" alt="Languages and frameworks" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/iimazin11">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=iimazin11&layout=compact&hide_title=true&langs_count=8&hide_values=true&bg_color=00000000&text_color=8b949e&title_color=58a6ff&hide_border=true&card_width=800" alt="Top languages" />
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=iimazin11&layout=compact&hide_title=true&langs_count=8&hide_values=true&bg_color=00000000&text_color=8b949e&title_color=58a6ff&hide_border=true&card_width=800" alt="Top languages" />
       </a>
     </td>
   </tr>
