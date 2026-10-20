@@ -1,37 +1,18 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png" width="40" align="absmiddle" alt="" />, I'm Mazin aka Accelerator</h1>
+<div align="center">
 
-<p>
-  <img src="https://count.getloli.com/@iimazin11?name=iimazin11&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Mazen "></picture>
 
-<p>
-  <i>Full-stack developer · Backend lover · Building things with Kotlin, TypeScript & Go</i>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.304%" alt=""></picture><a href="https://www.instagram.com/maz1nx/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.836%" alt="instagram"></picture></a><a href="https://discord.com/users/276452420719083521"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.304%" alt=""></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<table width="100%">
-  <tr>
-    <td width="40%" align="center" valign="top">
-      <img src="https://github.com/iimazin11/iimazin11/blob/main/pngwing.com.png?raw=true" width="100%" alt="anime character" />
-    </td>
-    <td width="60%" valign="top">
-      <h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/Default/3D/technologist_3d_default.png" width="36" align="absmiddle" alt="" /> About Me</h2>
-      <ul>
-        <li><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/3D/telescope_3d.png" width="22" align="absmiddle" alt="" /> I build web apps, backend services and desktop apps</li>
-        <li><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Seedling/3D/seedling_3d.png" width="22" align="absmiddle" alt="" /> Always learning something new in the Kotlin / TypeScript / Go world</li>
-        <li><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="22" align="absmiddle" alt="" /> Big fan of clean APIs, fast services and good developer experience</li>
-        <li><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" width="22" align="absmiddle" alt="" /> Anime & gaming enjoyer (Genshin Impact / Zenless Zone Zero)</li>
-      </ul>
-      <hr />
-      <img width="75%" src="https://skillicons.dev/icons?i=kotlin,ts,js,go,react,nextjs,express,nestjs,electron,redis&perline=5" alt="Languages and frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/iimazin11">
-        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=iimazin11&layout=compact&hide_title=true&langs_count=8&hide_values=true&bg_color=00000000&text_color=8b949e&title_color=58a6ff&hide_border=true&card_width=800" alt="Top languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/iimazin11/i18n-nextjs-15"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-i18n-nextjs-15-dark.svg"><img src="assets/project-i18n-nextjs-15-light.svg" width="49%" alt="i18n-nextjs-15"></picture></a>&nbsp;<a href="https://github.com/iimazin11/haunt-oauth2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-haunt-oauth2-dark.svg"><img src="assets/project-haunt-oauth2-light.svg" width="49%" alt="haunt-oauth2"></picture></a>
+
+<a href="https://github.com/iimazin11/totp-otp-auth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-totp-otp-auth-dark.svg"><img src="assets/project-totp-otp-auth-light.svg" width="49%" alt="totp-otp-auth"></picture></a>&nbsp;<a href="https://github.com/iimazin11/discord-apis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-discord-apis-dark.svg"><img src="assets/project-discord-apis-light.svg" width="49%" alt="discord-apis"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+
+</div>
