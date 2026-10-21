@@ -1,7 +1,7 @@
 {
- "key": "24799b0b",
+ "key": "422ac430",
  "stars": 34,
- "contributions": 1588,
+ "contributions": 1589,
  "repos": 16,
  "followers": 14,
  "languages": [
@@ -109,11 +109,15 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -134,39 +138,6 @@
    "topics": []
   },
   {
-   "name": "Nest.js-Auth-Apps",
-   "url": "https://github.com/iimazin11/Nest.js-Auth-Apps",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "Mega-Clicker",
-   "url": "https://github.com/iimazin11/Mega-Clicker",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Go-GiveawayBot",
-   "url": "https://github.com/iimazin11/Go-GiveawayBot",
-   "text": "This a Discord Giveaway Bot Made By Go Lang",
-   "fork": false,
-   "stars": 2,
-   "language": "Go",
-   "topics": [
-    "discordgo",
-    "go",
-    "golang",
-    "giveawaybot",
-    "mongodb"
-   ]
-  },
-  {
    "name": "discord-apis",
    "url": "https://github.com/iimazin11/discord-apis",
    "text": "The most of discord apis",
@@ -176,6 +147,30 @@
    "topics": [
     "discord",
     "discordapi"
+   ]
+  },
+  {
+   "name": "haunt-oauth2",
+   "url": "https://github.com/iimazin11/haunt-oauth2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "mcpelauncher-manifest",
+   "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+   "text": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+   "fork": false,
+   "stars": 1698,
+   "language": "CMake",
+   "topics": [
+    "minecraft",
+    "mcpe",
+    "bedrock",
+    "launcher",
+    "linux"
    ]
   }
  ],
