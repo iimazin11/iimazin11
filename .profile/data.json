@@ -1,5 +1,5 @@
 {
- "key": "faf99182",
+ "key": "6d6c9243",
  "stars": 34,
  "contributions": 1491,
  "repos": 16,
@@ -111,9 +111,13 @@
    {
     "c": 0,
     "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
     "today": true
    },
-   null,
    null,
    null,
    null
