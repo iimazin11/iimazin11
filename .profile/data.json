@@ -1,5 +1,5 @@
 {
- "key": "bed245dc",
+ "key": "7797055f",
  "stars": 34,
  "contributions": 1496,
  "repos": 16,
@@ -126,13 +126,17 @@
    {
     "c": 0,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 58
  },
  "pins": [
