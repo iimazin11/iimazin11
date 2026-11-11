@@ -1,5 +1,5 @@
 {
- "key": "94478659",
+ "key": "5ffa1a1a",
  "stars": 34,
  "contributions": 1455,
  "repos": 16,
@@ -163,7 +163,7 @@
    "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
    "text": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
    "fork": false,
-   "stars": 1718,
+   "stars": 1719,
    "language": "CMake",
    "topics": [
     "minecraft",
